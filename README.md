@@ -14,6 +14,11 @@ Use your favourite plugin manager. For example with
 Plugin 'tim-clifford/vim-venus'
 ```
 
+If you end up using it frequently, please subscribe to the announcement mailing
+list by pinging
+[~tim-clifford/vim-venus-announce+subscribe@lists.sr.ht](mailto:~tim-clifford/vim-venus-announce+subscribe@lists.sr.ht),
+as there might be some breaking changes down the line.
+
 # Dependencies
 
 - An installation of pandoc with xelatex (e.g. `pandoc` and `texlive-most` on
