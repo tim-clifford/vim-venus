@@ -11,7 +11,7 @@ shell, haskell, and R REPLs are supported.
 Use your favourite plugin manager. For example with
 [Vundle.vim](https://github.com/VundleVim/Vundle.vim):
 ```vimscript
-Plugin 'tim-clifford/vim-venus'
+Plugin 'https://git.sr.ht/~tim-clifford/vim-venus'
 ```
 
 If you end up using it frequently, please subscribe to the announcement mailing
